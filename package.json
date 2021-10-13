@@ -1,4 +1,29 @@
 {
+  "name": "lim-test-task",
+  "description": "This is repo for QA job applicants.",
+  "version": "1.0.0",
+  "main": "wdio.conf.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test",
+    "tsc": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivacenontroppo/lim-test-task.git"
+  },
+  "keywords": [
+    "qa",
+    "test"
+  ],
+  "author": "Marian Kucharski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vivacenontroppo/lim-test-task/issues"
+  },
+  "homepage": "https://github.com/vivacenontroppo/lim-test-task#readme",
   "dependencies": {
     "@wdio/cli": "^7.14.1"
   },
